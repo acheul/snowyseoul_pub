@@ -21,7 +21,3 @@
 >https://htmlpreview.github.io/?https://github.com/acheul/snowyseoul_pub/blob/main/220808/trends_on_taeku_myun_rank_slope_vis.html
 ##### Absolute Upward Mobility
 >https://htmlpreview.github.io/?https://github.com/acheul/snowyseoul_pub/blob/main/220808/trends_on_taeku_myun_upw_r25_vis.html
-
-<div>
-<embed type="text/html" src="./220808/micro_class_structure_.html" width="500" height="200">
-</div?
